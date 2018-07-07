@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Adb键盘</string>
+    <string name="keyboard_on">ADB键盘【已开启】</string>
+</resources>
